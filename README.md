@@ -50,7 +50,7 @@ LineStorm is an advanced Arduino-powered robot that autonomously follows a black
 
 ## 🧪 Demo
 
-> 🎥 *[(Insert video/GIF link here of your robot in action)](https://vimeo.com/1095835070/0d1aff5f2e?ts=0&share=copy)*
+> 🎥 *[[Watch Demo on Vimeo]](https://vimeo.com/1095835070/0d1aff5f2e?ts=0&share=copy)*
 
 ---
 
