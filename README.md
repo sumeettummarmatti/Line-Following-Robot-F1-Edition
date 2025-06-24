@@ -70,7 +70,7 @@ This project is open source under the [MIT License](./LICENSE).
 
 ## 🤝 Contributing
 
-Pull requests are welcome. If you'd like to enhance features or add cool behavior (like U-turns or Bluetooth control), feel free to fork and go wild!
+Pull requests are welcome. If you'd like to enhance features or add cool behaviours
 
 ---
 
