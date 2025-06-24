@@ -1,6 +1,6 @@
-# 🏎️ LineStorm – Smart Line Following Robot
+# 🏎️ PathFinderX – Smart Line Following Robot
 
-LineStorm is an advanced Arduino-powered robot that autonomously follows a black line, detects nearby obstacles, and responds to colors like red, green, and blue—just like an F1 car responding to pit signals. This project is a hands-on example of embedded systems, robotics, and sensor fusion for automation.
+PathFinderX is an advanced Arduino-powered robot that autonomously follows a black line, detects nearby obstacles, and responds to colors like red, green, and blue—just like an F1 car responding to pit signals. This project is a hands-on example of embedded systems, robotics, and sensor fusion for automation.
 
 ---
 
