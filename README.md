@@ -42,7 +42,7 @@ LineStorm is an advanced Arduino-powered robot that autonomously follows a black
 ## ⚙️ Setup Instructions
 
 1. **Assemble the hardware** according to the wiring diagram.
-2. **Upload the code** from `/code/LineStorm.ino` using Arduino IDE.
+2. **Upload the code** from `/pathFinderX/code.ino` using Arduino IDE.
 3. Place the robot on a **black line track** with optional colored zones.
 4. Power on and watch it drive intelligently!
 
