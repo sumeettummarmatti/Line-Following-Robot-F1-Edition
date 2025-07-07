@@ -41,7 +41,7 @@ PathFinderX is an advanced Arduino-powered robot that autonomously follows a bla
 
 ## 🪛 Circuit
 
-> 🎥 *[[View the circuit diagram on Cirkit Designer IDE]](https://app.cirkitdesigner.com/project/80f72890-f2dc-473b-b27e-30c9b6459683)*
+> 📸 *[[View the circuit diagram on Cirkit Designer IDE]](https://app.cirkitdesigner.com/project/80f72890-f2dc-473b-b27e-30c9b6459683)*
 
 ---
 
