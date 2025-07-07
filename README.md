@@ -39,9 +39,15 @@ PathFinderX is an advanced Arduino-powered robot that autonomously follows a bla
 
 ---
 
+## 🪛 Circuit
+
+> 🎥 *[[View the circuit diagram on Cirkit Designer IDE]](https://app.cirkitdesigner.com/project/80f72890-f2dc-473b-b27e-30c9b6459683)*
+
+---
+
 ## ⚙️ Setup Instructions
 
-1. **Assemble the hardware** according to the wiring diagram.
+1. **Assemble the hardware** according to the wiring diagram .
 2. **Upload the code** from `/pathFinderX/code.ino` using Arduino IDE.
 3. Place the robot on a **black line track** with optional colored zones.
 4. Power on and watch it drive intelligently!
