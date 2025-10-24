@@ -76,7 +76,7 @@ This project is open source under the [MIT License](./LICENSE).
 
 ## 🤝 Contributing
 
-Pull requests are welcome. If you'd like to enhance features or add cool behaviours
+Pull requests are welcome. If you'd like to enhance features or add cool behaviours please go ahead.
 
 ---
 
